@@ -1,1 +1,0 @@
-import{l as r,f as s,g as n,j as t,P as o}from"./CA5f3yfQ.js";const l={};function c(a,e){return n(),s("div",null,[e[0]||(e[0]=t("header",{class:"container mx-auto p-10 bg-gray-100 mb-4"},[t("h1",null,"My Nuxt App")],-1)),o(a.$slots,"default")])}const f=r(l,[["render",c]]);export{f as default};
