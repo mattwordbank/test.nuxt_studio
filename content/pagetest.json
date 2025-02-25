@@ -20,7 +20,14 @@
       "author": "John Doe",
       "dateCreated": "2024-03-20",
       "lastModified": "2024-03-20",
-      "tags": ["test", "sample", "documentation"]
+      "tags": [
+        "test",
+        "sample",
+        "documentation"
+      ]
     }
+  },
+  "seo": {
+    "title": "JSON SEO Title"
   }
 }

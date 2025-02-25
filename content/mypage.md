@@ -10,11 +10,13 @@ seo:
 
 the mypage description
 
-## Sample test page rkdown Features
+## Sample test page with Markdown Features
 
 ### Text Formatting
 
 You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
+
+![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.jpg){width="400px"}
 
 ### Lists
 

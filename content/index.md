@@ -1,12 +1,12 @@
-# My Page Test
+# My Home Page Test
 
 This is my page.
 
-## Sample Markdown Features
+## Sample Markdown Features for home page
 
 ### Text Formatting
 
-You can make text **bold**, _italic_, or **_both_**. You can also add ~~strikethrough~~ text.
+You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
 
 ---
 
