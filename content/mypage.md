@@ -6,7 +6,7 @@ seo:
   description: SEO Descripton
 ---
 
-# Test My Page/Studio Test
+# Test My Page/Studio Test 2
 
 the mypage description
 
