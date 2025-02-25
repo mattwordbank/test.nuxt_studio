@@ -1,22 +1,23 @@
 <script setup>
-const { data: home } = await useAsyncData(() =>
-  queryCollection("content").path("/mypage").first()
+const { data: mypage } = await useAsyncData(() =>
+  queryCollection("json").path("/pagetest").first()
 );
 
 useSeoMeta({
-  title: home.value?.title,
-  description: home.value?.description,
+  title: mypage.value?.title,
+  description: mypage.value?.description,
 });
 </script>
 
 <template>
   <div class="container mx-auto p-10 bg-gray-100">
-    <h1 class="text-4xl font-bold mb-8">
-      {{ home?.title }}
-    </h1>
     <div class="prose">
-      <ContentRenderer v-if="home" :value="home" />
-      <div v-else>Home not found</div>
+      <h1>{{ mypage.body.content.header }}</h1>
+      <div v-for="section in mypage.body.content.sections" :key="section.id">
+        <h2>{{ section.title }}</h2>
+        <p>{{ section.text }}</p>
+      </div>
+      <pre>{{ mypage }}</pre>
     </div>
   </div>
 </template>
