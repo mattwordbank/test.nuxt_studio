@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "@nuxt/image"],
   css: ["~/assets/css/main.css"],
+
   content: {
     renderer: {
       anchorLinks: { h2: false, h3: false, h4: false },
