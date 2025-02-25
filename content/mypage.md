@@ -14,9 +14,9 @@ the mypage description
 
 ### Text Formatting
 
-You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
+You can make text **bold**, _italic_, or **_both_**. You can also add ~~strikethrough~~ text.
 
-![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.jpg){width="400px"}
+![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.jpg){width="400px" quality="80" format="webp"}
 
 ### Lists
 
