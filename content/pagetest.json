@@ -1,0 +1,26 @@
+{
+  "title": "Sample Page",
+  "slug": "sample-page",
+  "description": "This is a sample page for testing purposes",
+  "content": {
+    "header": "Welcome to our test page",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "First Section",
+        "text": "This is the content of the first section."
+      },
+      {
+        "id": "section-2",
+        "title": "Second Section",
+        "text": "This is the content of the second section."
+      }
+    ],
+    "metadata": {
+      "author": "John Doe",
+      "dateCreated": "2024-03-20",
+      "lastModified": "2024-03-20",
+      "tags": ["test", "sample", "documentation"]
+    }
+  }
+}
