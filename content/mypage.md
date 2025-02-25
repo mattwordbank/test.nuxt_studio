@@ -10,13 +10,18 @@ seo:
 
 the mypage description
 
+::my-button
+#button-label
+my button here a
+::
+
 ## Sample test page with Markdown Features
 
 ![karsten-winegeart-1GRm2Kdwykc-unsplash.webp](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="400"}
 
 ### Text Formatting
 
-You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
+You can make text **bold**, _italic_, or **_both_**. You can also add ~~strikethrough~~ text.
 
 ![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.jpg){format="webp" height="400px" quality="80" width="400px"}
 

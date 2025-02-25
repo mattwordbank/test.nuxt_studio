@@ -14,7 +14,6 @@ useSeoMeta({
     <h1 class="text-4xl font-bold mb-8">
       {{ home?.title }}
     </h1>
-    <Button />
     <div class="prose">
       <ContentRenderer v-if="home" :value="home" />
       <div v-else>Home not found</div>
