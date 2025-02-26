@@ -11,6 +11,9 @@ seo:
 the mypage description
 
 ::my-button
+---
+href: /
+---
 #button-label
 Click Here
 ::
