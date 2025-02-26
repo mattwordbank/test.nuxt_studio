@@ -15,6 +15,10 @@ the mypage description
 Click Here
 ::
 
+::my-button
+New button
+::
+
 ## Sample test page with Markdown Features
 
 ![karsten-winegeart-1GRm2Kdwykc-unsplash.webp](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="400"}
