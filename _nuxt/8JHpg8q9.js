@@ -1,0 +1,1 @@
+import{l as t,f as o,g as n,P as s}from"./Ckl7y7_q.js";const r={},c={href:"/",class:"bg-blue-500 text-white px-4 py-2 rounded-md inline-block"};function l(e,a){return n(),o("a",c,[s(e.$slots,"button-label")])}const d=t(r,[["render",l]]);export{d as default};
