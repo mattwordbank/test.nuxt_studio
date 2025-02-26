@@ -16,7 +16,8 @@ Click Here
 ::
 
 ::my-button
-New button
+#button-label
+Button label
 ::
 
 ## Sample test page with Markdown Features
