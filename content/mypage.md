@@ -1,8 +1,8 @@
 ---
-title: My new page title is here
+title: My Page
 description: the new description is here
 seo:
-  title: SEO Title
+  title: SEO Title is going to be good
   description: SEO Descripton
 ---
 
