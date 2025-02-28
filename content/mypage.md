@@ -28,13 +28,13 @@ Button label
 
 ## Sample test page with Markdown Features
 
-![karsten-winegeart-1GRm2Kdwykc-unsplash.webp](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="200"}
+![Test Image](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="200"}
 
 ### Text Formatting
 
 You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
 
-![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.jpg){format="webp" height="400px" quality="80" width="400px"}
+![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){format="webp" height="200px" quality="80" width="400px"}
 
 ### Lists
 
