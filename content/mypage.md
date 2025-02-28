@@ -6,7 +6,7 @@ seo:
   description: SEO Descripton
 ---
 
-# Test My Page/Studio Test 2
+# Test My Page/Studio Test 22
 
 the mypage description
 
@@ -28,7 +28,7 @@ Button label
 
 ## Sample test page with Markdown Features
 
-![karsten-winegeart-1GRm2Kdwykc-unsplash.webp](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="400"}
+![karsten-winegeart-1GRm2Kdwykc-unsplash.webp](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="200"}
 
 ### Text Formatting
 
