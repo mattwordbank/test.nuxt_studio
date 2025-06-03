@@ -1,1 +1,0 @@
-import{f as r,g as o,P as n}from"./EYVYs4MI.js";const s=["href"],c={__name:"myButton",props:{href:{type:String,default:"/"}},setup(e){return(t,a)=>(o(),r("a",{href:e.href,class:"bg-blue-500 text-white px-4 py-2 rounded-md inline-block"},[n(t.$slots,"button-label")],8,s))}};export{c as default};
