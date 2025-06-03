@@ -3,19 +3,29 @@ title: My Page
 description: the new description is here
 seo:
   title: SEO Title is going to be good
-  description: SEO Descripton
+  description: SEO Description
 ---
 
 # Test My Page/Studio Test 22
 
 the mypage description
 
+::grid-section
+#left
+### Text Formatting
+You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
+
+#right
+<h2 class="mt-0 pt-0 mb-0 pb-0 not-prose text-3xl font-bold">Text Formatting</h2>
+Here's some additional content for the right side.
+::
+
 ::my-button
 ---
 href: /
 ---
 #button-label
-Click Here
+Click Here NOW
 ::
 
 ::my-button
@@ -28,15 +38,23 @@ Button label
 
 ## Sample test page with Markdown Features
 
+<div class="h-8"></div>
+
 ![Test Image](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="200"}
 
 ### Text Formatting
 
+<div class="h-4"></div>
+
 You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
+
+<div class="h-8"></div>
 
 ![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){format="webp" height="200px" quality="80" width="400px"}
 
 ### Lists
+
+<div class="h-4"></div>
 
 1. First ordered item for some more
 2. also this has been added
@@ -46,6 +64,8 @@ You can make text **bold**, *italic*, or ***both***. You can also add ~~striketh
 4. Third ordered item
 
 ### Code
+
+<div class="h-4"></div>
 
 ```javascript
 const code = "Inline `code` looks like this.";

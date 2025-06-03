@@ -1,0 +1,24 @@
+{
+  "ignorePatterns": ["**/*.md"],
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "markdown",
+        "proseWrap": "preserve",
+        "printWidth": 999,
+        "singleQuote": false,
+        "trailingComma": "none",
+        "bracketSpacing": false,
+        "arrowParens": "avoid",
+        "endOfLine": "lf",
+        "semi": false,
+        "tabWidth": 2,
+        "useTabs": false,
+        "bracketSameLine": false,
+        "htmlWhitespaceSensitivity": "ignore",
+        "embeddedLanguageFormatting": "off"
+      }
+    }
+  ]
+}
