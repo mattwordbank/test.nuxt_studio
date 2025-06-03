@@ -1,8 +1,8 @@
-# My Home Page Test V2
+# My Home Page Test V2 With Something else here.
 
 This is my page.
 
-## Sample Markdown Features for home page
+## Sample Markdown Features for home page [Visit My Page](/mypage)
 
 ### Text Formatting
 
