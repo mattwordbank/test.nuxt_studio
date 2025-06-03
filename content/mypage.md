@@ -17,7 +17,7 @@ You can make text **bold**, *italic*, or ***both***. You can also add ~~striketh
 
 #right
 <h2 class="mt-0 pt-0 mb-0 pb-0 not-prose text-3xl font-bold">Text Formatting</h2>
-Here's some additional content for the right side.
+Here's some additional content for the right side. fffff
 ::
 
 ::my-button
