@@ -38,23 +38,15 @@ Button label
 
 ## Sample test page with Markdown Features
 
-<div class="h-8"></div>
-
 ![Test Image](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){height="400" width="200"}
 
 ### Text Formatting
 
-<div class="h-4"></div>
-
 You can make text **bold**, *italic*, or ***both***. You can also add ~~strikethrough~~ text.
-
-<div class="h-8"></div>
 
 ![the alt tag](/karsten-winegeart-1GRm2Kdwykc-unsplash.webp){format="webp" height="200px" quality="80" width="400px"}
 
 ### Lists
-
-<div class="h-4"></div>
 
 1. First ordered item for some more
 2. also this has been added
@@ -64,8 +56,6 @@ You can make text **bold**, *italic*, or ***both***. You can also add ~~striketh
 4. Third ordered item
 
 ### Code
-
-<div class="h-4"></div>
 
 ```javascript
 const code = "Inline `code` looks like this.";

@@ -25,9 +25,11 @@ console.log("Home data:", home.value);
     </div>
 
     <!-- Content Section -->
-    <div class="bg-white p-6 rounded-lg shadow prose prose-lg max-w-none">
-      <ContentRenderer v-if="home" :value="home" />
-      <div v-else>Content not found</div>
-    </div>
+    <article class="bg-white p-6 rounded-lg shadow">
+      <div class="prose prose-lg max-w-none">
+        <ContentRenderer v-if="home" :value="home" />
+        <div v-else>Content not found</div>
+      </div>
+    </article>
   </div>
 </template>
