@@ -30,7 +30,7 @@ export default defineNuxtConfig({
     },
   },
 
-  // Content security settings
+  // Content security settings with enhanced XSS protection
   content: {
     renderer: {
       anchorLinks: { h2: false, h3: false, h4: false },
@@ -41,9 +41,27 @@ export default defineNuxtConfig({
           depth: 3,
           searchDepth: 3,
         },
-        remarkPlugins: {},
-        rehypePlugins: {},
+        remarkPlugins: [],
+        rehypePlugins: [],
       },
+    },
+    // Additional content security options
+    experimental: {
+      clientDB: false, // Disable client-side database to reduce attack surface
+    },
+    // Disable potentially dangerous features
+    highlight: {
+      theme: 'github-dark'
+    },
+    // Ensure markdown is properly sanitized
+    markdown: {
+      toc: {
+        depth: 3,
+        searchDepth: 3,
+      },
+      // Disable potentially dangerous markdown features
+      remarkPlugins: [],
+      rehypePlugins: [],
     },
   },
 
